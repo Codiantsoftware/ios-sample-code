@@ -1,0 +1,28 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.12)
+  - JWTDecode (3.1.0)
+  - KeychainAccess (4.2.2)
+  - ObjectMapper (4.2.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - JWTDecode
+  - KeychainAccess
+  - ObjectMapper
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - JWTDecode
+    - KeychainAccess
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  JWTDecode: 3eaab1e06b6f4dcbdd6716aff09ba4c2104ca8b7
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+
+PODFILE CHECKSUM: ca2b35ee0257deff452b1c5a3d88014d5d9d5d6f
+
+COCOAPODS: 1.14.3

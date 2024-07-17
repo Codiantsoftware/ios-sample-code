@@ -1,0 +1,28 @@
+//
+//  Dev.xcconfig
+//  Codiant iOS
+//
+//  Created by Codiant iOS on 20/03/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-Codiant iOSDriver/Pods-Codiant iOSDriver.dev.xcconfig"
+
+// App Version
+ APP_VERSION = 1.1.0
+
+
+// App Build
+APP_BUILD = 1
+
+// Env Identifier
+ ENV_IDF = dev
+
+
+// Server URL
+API_URL =  https:/$()/node-api-demo.codiantdev.com/api/v1
+
+
+//node-api-demo.codiantdev.com/api/v1
+
